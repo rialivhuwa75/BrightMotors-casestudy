@@ -1,4 +1,4 @@
-# 🚗 Bright Motors — Sales Analytics & Insights
+# 🚗 Bright Motors — Sales-Analysis
 
 A data analytics project exploring used vehicle sales, pricing patterns, and market performance for Bright Motors.  
 The goal is to uncover insights that support better inventory, pricing, and business decisions.
